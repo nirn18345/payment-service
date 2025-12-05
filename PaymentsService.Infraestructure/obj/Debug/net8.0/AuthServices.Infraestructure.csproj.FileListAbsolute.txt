@@ -1,0 +1,156 @@
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\usuario\Desktop\ApiReclutamiento\ApiReclutamiento\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.sourcelink.json
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Desktop\RepoNelson\Apis\DEV\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\usuario\Desktop\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\usuario\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Users\nelson.rodriguez\Downloads\Dev_ApiAuthService\Dev_ApiAuthService\Fuentes\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.sourcelink.json
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Repositorios GIT\Portal Reclutamiento\Microservicios\GestionTaskBackend\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.deps.json
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.dll
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.dll
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Application.pdb
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\bin\Debug\net8.0\AuthServices.Domain.pdb
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.AssemblyReference.cache
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfoInputs.cache
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.AssemblyInfo.cs
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServ.3B1F36E1.Up2Date
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\refint\AuthServices.Infraestructure.dll
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\AuthServices.Infraestructure.pdb
+C:\Repositorios GIT\SecurityCore\Microservicios\AuthServices\AuthServices.Infraestructure\obj\Debug\net8.0\ref\AuthServices.Infraestructure.dll
+

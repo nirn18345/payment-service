@@ -1,0 +1,31 @@
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Application.deps.json
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Application.dll
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Application.pdb
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Domain.dll
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Domain.pdb
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.csproj.AssemblyReference.cache
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.AssemblyInfoInputs.cache
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.AssemblyInfo.cs
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.csproj.CoreCompileInputs.cache
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\Template.770F02D0.Up2Date
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.dll
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\refint\PaymentsService.Application.dll
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.pdb
+C:\Users\nrodriguezn\Documents\Plantilla Microservicios\AuthServicesTemplates\PaymentsService.Application\obj\Debug\net8.0\ref\PaymentsService.Application.dll
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Application.deps.json
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Application.dll
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Application.pdb
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Domain.dll
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\bin\Debug\net8.0\PaymentsService.Domain.pdb
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.csproj.AssemblyReference.cache
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.AssemblyInfoInputs.cache
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.AssemblyInfo.cs
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.csproj.CoreCompileInputs.cache
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.sourcelink.json
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\Payments.4F023AEF.Up2Date
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.dll
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\refint\PaymentsService.Application.dll
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\PaymentsService.Application.pdb
+D:\OneDrive - MUNICIPIO DE GUAYAQUIL\Documents\Prueba Tecnica Bolivia\PaymentsService\PaymentsService.Application\obj\Debug\net8.0\ref\PaymentsService.Application.dll
